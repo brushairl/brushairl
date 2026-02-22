@@ -1,4 +1,4 @@
-## Hi there 👋
+![image alt](https://github.com/brushairl/brushairl/blob/57f1a55b04ca3446cf94451aa5941c02756b9eff/Untitled828_20260221185538.png)
 
 <!--
 **brushairl/brushairl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
